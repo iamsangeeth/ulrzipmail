@@ -38,6 +38,7 @@ env/
 build/
 develop-eggs/
 dist/
+resource/
 downloads/
 eggs/
 lib/
